@@ -87,7 +87,7 @@ async def assistant_endpoint(req: MessageRequest):
     # 1) 사용자 질문을 임베딩
     embed_response = await openai.embeddings.create(
         input=req.message,
-        model="text-embedding-3-small"
+        model="text-embedding-3-large"
     )
     query_embedding = embed_response.data[0].embedding
 
@@ -136,7 +136,7 @@ async def assistant_endpoint(req: MessageRequest):
     return {"reply": assistant_reply}
 
 
-# uvicorn app:app -reload
+# uvicorn app:app --reload
 # 서버 실행
 if __name__ == "__main__":
     import uvicorn
