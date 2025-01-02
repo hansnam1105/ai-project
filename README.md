@@ -1,6 +1,7 @@
 # 마트 쇼핑 도우미 챗봇 (SmartShopper)
 
-![alt text](<DALL·E 2025-01-02 14.51.51 - A minimalistic and modern depiction of a shopping assistant chatbot service called 'SmartShopper' for smartphones. The image features a smartphone wit.webp>)
+<center>
+<img src = "DALL·E 2025-01-02 14.51.51 - A minimalistic and modern depiction of a shopping assistant chatbot service called 'SmartShopper' for smartphones. The image features a smartphone wit.webp" width=50%> </center>
 
 ## 서비스 개요
 ### 1. 서비스가 해결하려는 문제점(Problem Statement)
