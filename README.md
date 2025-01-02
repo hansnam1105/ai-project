@@ -53,7 +53,7 @@
 https://www.data.go.kr/data/15083256/fileData.do
 
 ### 원천데이터 형식
-- 정형 데이터 : JSON    
+- 정형 데이터 : csv    
 
 <br>
 
@@ -64,3 +64,12 @@ https://www.data.go.kr/data/15083256/fileData.do
 |벡터 DB|Pinecone|
 |임베딩 모델|OpenAI Embeddings|
 |하이퍼 파라미터|top-k = 4, 유사도 임계값 = 0.7|
+
+## 🛠️ 구현
+
+<a name="skills"></a>
+|구분|내용|
+|-|-|
+|프론트|Node, parcel, tailwindcss|
+|백엔드|Python, FastAIP|
+|배포|Fly.io, AWS Amplify|
