@@ -3,6 +3,16 @@
 <center>
 <img src = "DALL·E 2025-01-02 14.51.51 - A minimalistic and modern depiction of a shopping assistant chatbot service called 'SmartShopper' for smartphones. The image features a smartphone wit.webp" width=50%> </center>
 
+## 👥 팀원 소개
+
+
+<a name="developers"></a>
+
+| **Name** |   신동욱   |   송명석   | 신용현 | 김의종 | 박수연|
+| :------: | :--------: | :--------: | :----: | :----: | :----: |
+| **역할** |  UI/UX<br>프론트엔드<br>음성인식 | 백엔드 개발<br>개발총괄 | 백엔드 개발<br>캐릭터 컨텐츠 개발<br>프론트엔드 UI/UX<br>음성인식 | UI/UX<br>프론트엔드<br>아이디어 제안<br>목업 디자인 | UI/UX<br>프론트 엔드<br>컨텐츠 개발<br>레이아웃 검수 |
+<br/>
+
 ## 서비스 개요
 ### 1. 서비스가 해결하려는 문제점(Problem Statement)
 마트에서 물건을 구입할 때, 다른 마트의 가격정보를 비교하여 의사결정을 내리기 어렵다.
