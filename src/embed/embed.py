@@ -17,7 +17,7 @@ def main():
 
     pc = Pinecone(api_key=pinecone_api_key)
     index_name = "daily-goods-prices"
-    dimension = 1536
+    dimension = 3072
 
     if index_name not in pc.list_indexes().names():
         pc.create_index(
@@ -60,7 +60,7 @@ def main():
 
     embedding_openai = OpenAIEmbeddings(
         openai_api_key=openai_api_key,
-        model="text-embedding-ada-002"  # 디폴트 1536차원
+        model="text-embedding-3-large"
     )
 
     PineconeVectorStore.from_documents(
