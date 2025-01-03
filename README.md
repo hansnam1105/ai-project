@@ -1,7 +1,7 @@
 # 마트 쇼핑 도우미 챗봇 (SmartShopper)
 
 <center>
-<img src = "docs/DALL·E 2025-01-02 14.51.51 - A minimalistic and modern depiction of a shopping assistant chatbot service called 'SmartShopper' for smartphones. The image features a smartphone wit.webp" width=50%> </center>
+<img src = "docs/img/DALL·E 2025-01-02 14.51.51 - A minimalistic and modern depiction of a shopping assistant chatbot service called 'SmartShopper' for smartphones. The image features a smartphone wit.webp" width=50%> </center>
 
 ## 👥 팀원 소개
 
@@ -52,7 +52,7 @@
 ### 2. 질문을 입력하세요.  
     예시) "지금 마트에 왔는데 삼겹살 가격이 1인분에 3000원이야. 적당해?"
 
-![alt text](image-1.png)
+![alt text](docs/img/image-1.png)
 
 ### 3. 답변을 통해 의사 결정에 활용하세요!
 
