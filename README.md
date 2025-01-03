@@ -49,7 +49,7 @@
 <br>
 
 ## 사용법 - User
-### 1. <a href="https://master.d1kqzz90ejyhk5.amplifyapp.com/"> Smart shopper에에 접속하세요 </a>
+### 1. <a href="https://master.d1kqzz90ejyhk5.amplifyapp.com/"> Smart shopper에 접속하세요 </a>
 ### 2. 질문을 입력하세요.  
     예시) "지금 마트에 왔는데 삼겹살 가격이 1인분에 3000원이야. 적당해?"
 
