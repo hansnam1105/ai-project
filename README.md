@@ -1,7 +1,7 @@
 # 마트 쇼핑 도우미 챗봇 (SmartShopper)
 
 <center>
-<img src = "docs/img/Samsung  Galaxy S23.png" width=50%> </center>
+<img src = "docs/img/Samsung  Galaxy S23.png" height="400"> </center>
 
 ## 👥 팀원 소개
 
