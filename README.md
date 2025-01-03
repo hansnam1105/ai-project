@@ -1,7 +1,7 @@
 # 마트 쇼핑 도우미 챗봇 (SmartShopper)
 
 <center>
-<img src = "docs/img/DALL·E 2025-01-02 14.51.51 - A minimalistic and modern depiction of a shopping assistant chatbot service called 'SmartShopper' for smartphones. The image features a smartphone wit.webp" width=50%> </center>
+<img src = "docs/img/Samsung  Galaxy S23.png" style="max-height: 400px;"> </center>
 
 ## 👥 팀원 소개
 
@@ -15,20 +15,21 @@
 
 ## 서비스 개요
 ### 1. 서비스가 해결하려는 문제점(Problem Statement)
-마트에서 물건을 구입할 때, 다른 마트의 가격정보를 비교하여 의사결정을 내리기 어렵다.
+소비자가 마트에서 상품을 구입할 때, 동일 상품에 대한 다른 마트의 가격정보를 알지 못하여 해당 상품의 가격이 적절한지, 합리적인 소비인지 알기 어렵다.
 
 ### 2. 제공하고자 하는 주요 기능 및 가치  
 - 실시간 가격 비교 및 가성비 평가
 - 할인 정보 제공
 
 ### 3. 타겟 사용자와 예상 사용 시나리오  
-타겟 사용자 : 가격 민감도가 높은 일반 소비자 및 주부  
+타겟 사용자 : 가격 민감도가 높은 일반 소비자 및 식재료 구입을 자주하는 주부 
 예상 시나리오 : 사용자가 특정 상품의 가격을 입력하거나 검색하면, 최적의 가격과 가성비 분석 결과를 제공  
 
 <br>
 
 ## 목표 및 기대효과
 ### 서비스 목표
+- 사용자 질문에 신속하고 정확한 답변을 제공하여 문제 해결 시간을 단축
 - 사용자에게 실시간 가격 정보와 가성비 분석을 제공하여 현명한 소비를 지원  
 - 마트별 할인 정보를 제공하여 사용자 선택의 폭을 넓힘  
 
@@ -48,7 +49,7 @@
 <br>
 
 ## 사용법 - User
-### 1. <a href="https://master.d1kqzz90ejyhk5.amplifyapp.com/"> 여기로 접속하세요 </a>
+### 1. <a href="https://master.d1kqzz90ejyhk5.amplifyapp.com/"> Smart shopper에에 접속하세요 </a>
 ### 2. 질문을 입력하세요.  
     예시) "지금 마트에 왔는데 삼겹살 가격이 1인분에 3000원이야. 적당해?"
 
@@ -100,7 +101,7 @@ https://www.data.go.kr/data/15083256/fileData.do
 |구분|내용|
 |-|-|
 |프론트|Node / parcel / tailwindcss|
-|백엔드|Python / FastAIP|
+|백엔드|Python / FastAPI|
 |배포|Fly.io / AWS Amplify|
 
 ## 성능
